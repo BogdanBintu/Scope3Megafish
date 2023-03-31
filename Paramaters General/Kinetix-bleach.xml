@@ -3,11 +3,11 @@
   <camera1 validate="True">
     <default_max type="int">20000</default_max>
     <default_min type="int">100</default_min>
-    <exposure_time type="float">0.1</exposure_time>
+    <exposure_time type="float">1.0</exposure_time>
     <extension type="string"/>
     <flip_horizontal type="boolean">False</flip_horizontal>
     <flip_vertical type="boolean">False</flip_vertical>
-    <fps type="float">10.0</fps>
+    <fps type="float">1.0</fps>
     <param_spdtab_index type="int">0</param_spdtab_index>
     <saved type="boolean">True</saved>
     <transpose type="boolean">False</transpose>

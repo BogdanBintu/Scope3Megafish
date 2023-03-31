@@ -609,7 +609,10 @@ class TCPControl(halModule.HalModule):
         if self.control_action is not None:
             if self.control_action.processMessage(message):
                 self.finalizeControlAction()
-
+                
+        if message.isType("change z position"):
+            self.control.setDirectory(message.getData()["directory"])
+        
         if message.isType("change directory"):
             self.control.setDirectory(message.getData()["directory"])
 

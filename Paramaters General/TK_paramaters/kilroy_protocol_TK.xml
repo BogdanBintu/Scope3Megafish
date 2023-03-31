@@ -134,7 +134,7 @@
     </valve_cmd>
 
     <valve_cmd name = "Set SSCT">
-     <valve_pos valve_ID = "1" port_ID = "33"></valve_pos>
+     <valve_pos valve_ID = "1" port_ID = "34"></valve_pos>
     </valve_cmd>
 
   </valve_commands>
@@ -602,12 +602,14 @@
             <pump duration = "390">Flow 2mL</pump>
 
              <valve duration = "5">Set Readout</valve>
-            <pump duration = "1040">Flow 1.5mL</pump>
+            <pump duration = "1240">Flow 1.5mL</pump>
             
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
+            <pump duration = "390">Flow 2mL</pump>
             
             <valve duration = "5">Set Image</valve>
+            <pump duration = "200">Flow 1.5mL</pump>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
     
