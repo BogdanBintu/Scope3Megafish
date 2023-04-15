@@ -177,6 +177,7 @@ class DaveCommandTreeViewer(QtWidgets.QTreeView):
 
         if self.dv_model is not None:
             dave_action_si = self.dv_model.getPreviousItem(index)
+            
             if dave_action_si is not None:
                 self.viewportUpdate()
                 return dave_action_si

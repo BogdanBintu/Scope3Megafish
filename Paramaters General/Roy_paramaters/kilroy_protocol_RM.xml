@@ -203,7 +203,7 @@
         <pump duration = "390">Flow 2mL</pump>
     </protocol>  
     <protocol name = "Flow Image Buffer">
-        <valve duration = "5">Set Image</valve>
+        <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
         <pump duration = "180">Flow 1.5mL</pump>
     </protocol>    
     
@@ -510,7 +510,7 @@
     	<pump duration = "1240">Flow 1.5mL</pump>
      	<valve duration = "5">Set Wash</valve>
     	<pump duration = "390">Flow 2mL</pump>
-     	<valve duration = "5">Set Image</valve>
+     	<valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
     	<pump duration = "200">Flow 1.5mL</pump>
      </protocol>
 	 
@@ -519,7 +519,7 @@
     	<pump duration = "1240">Flow 1.5mL</pump>
      	<valve duration = "5">Set Wash</valve>
     	<pump duration = "390">Flow 2mL</pump>
-     	<valve duration = "5">Set Image</valve>
+     	<valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
     	<pump duration = "200">Flow 1.5mL</pump>
      </protocol>
     
@@ -531,12 +531,12 @@
 			<pump duration = "300">Flow 2mL</pump>
 			<valve duration = "5">Set SSC</valve>
 			<pump duration = "250">Flow 2mL</pump>
-			<pump duration = "250">Flow 2mL</pump>
-     	<valve duration = "5">Set Hyb 29</valve>
+			<pump duration = "350">Flow 2mL</pump>
+     	<valve duration = "5">Set Hyb 19</valve>
     	<pump duration = "1840">Flow 1.5mL</pump>
      	<valve duration = "5">Set Wash</valve>
     	<pump duration = "390">Flow 2mL</pump>
-     	<valve duration = "5">Set Image</valve>
+     	<valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
     	<pump duration = "200">Flow 1.5mL</pump>
      </protocol>
     
@@ -558,7 +558,7 @@
 			<pump duration = "300">Flow 1.5mL</pump>
 			<pump duration = "300">Flow 1.5mL</pump>
 			<pump duration = "300">Flow 1.5mL</pump>
-			<valve duration = "5">Set Image</valve>
+			<valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "350">Flow 1.5mL</pump>
 
          </protocol>
@@ -590,7 +590,7 @@
 			<pump duration = "300">Flow 1.5mL</pump>
 			<pump duration = "300">Flow 1.5mL</pump>
 			<pump duration = "300">Flow 1.5mL</pump>
-			<valve duration = "5">Set Image</valve>
+			<valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "350">Flow 1.5mL</pump>
 
          </protocol>
@@ -618,7 +618,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -637,7 +637,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -657,7 +657,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -691,7 +691,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -724,7 +724,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -743,7 +743,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -768,7 +768,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -786,7 +786,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -806,7 +806,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -826,7 +826,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -846,7 +846,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -866,7 +866,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -886,7 +886,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -906,7 +906,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -926,7 +926,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -944,7 +944,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -962,7 +962,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -982,7 +982,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1002,7 +1002,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1022,7 +1022,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1042,7 +1042,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1062,7 +1062,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1082,7 +1082,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1102,7 +1102,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1117,18 +1117,11 @@
 			<pump duration = "250">Flow 2mL</pump>
 			<pump duration = "250">Flow 2mL</pump>
             
-            <valve duration = "5">Set Hyb 19</valve>
-            <pump duration = "1800">Flow 2mL</pump>
-            <valve duration = "5">Set Wash</valve>
-            <pump duration = "390">Flow 2mL</pump>
-            <valve duration = "5">Set SSC</valve>
-			<pump duration = "250">Flow 2mL</pump>
             
-            
-            <valve duration = "5">Set Hyb 22</valve>
+            <valve duration = "5">Set Hyb 28</valve>
 			<pump duration = "1800">Flow 2mL</pump>
             
-            <valve duration = "5">Set Hyb 20</valve>
+            <valve duration = "5">Set Hyb 29</valve>
 			<pump duration = "7200">Flow 1.5mL</pump>
             
         <valve duration = "5">Set SSC</valve>
@@ -1136,7 +1129,7 @@
 			<pump duration = "300">Flow 2mL</pump>
             <pump duration = "300">Flow 2mL</pump>
             
-        <valve duration = "5">Set Hyb 21</valve>
+        <valve duration = "5">Set Hyb 30</valve>
 			<pump duration = "3600">Flow 1.5mL</pump>
             
         <valve duration = "5">Set SSC</valve>
@@ -1162,7 +1155,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1182,7 +1175,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1202,7 +1195,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1222,7 +1215,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1242,7 +1235,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1262,7 +1255,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1282,7 +1275,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1302,7 +1295,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1322,7 +1315,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1342,7 +1335,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
@@ -1362,7 +1355,7 @@
             <valve duration = "5">Set Wash</valve>
             <pump duration = "390">Flow 2mL</pump>
             
-            <valve duration = "5">Set Image</valve>
+            <valve duration = "5">Set SSC</valve><pump duration = "250">Flow 1.5mL</pump><valve duration = "5">Set Image</valve>
             <pump duration = "200">Flow 1.5mL</pump>
          </protocol>
 
